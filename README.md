@@ -5,5 +5,5 @@ An implementation of Minimax with alpha-beta pruning AI Algorithm on Tic-Tac-Toe
 git clone https://github.com/Stekoaa/Tic-Tac-Toe-AI.git \
 cd Tic-Tac-Toe-AI\
 pip install pygame\
-python main.py\
+python main.py
 
